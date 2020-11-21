@@ -16,9 +16,9 @@ We wanted to gain insight into the weather of two polar opposite months: June an
 extract the following information:
 
 + Less than 3 inches of average rainfall
-+ A maximum temperature of 83F
-+ A minimum temperature of 71F
-+ An average temperature of 77F
++ A maximum temperature of 85F
++ A minimum temperature of 64F
++ An average temperature of 75F
 
 This was good new for the temperatures reported; W. Avy was satisfied with the rainfall conditions.
 
@@ -28,8 +28,8 @@ We wanted to see how a month on the opposite side of the calendar would perform 
 sustainable one year round. 
 
 + Less than 3 inches of rainfall
-+ A maximum temperature of 78
-+ A minimum temperature of 60
++ A maximum temperature of 83
++ A minimum temperature of 56
 + An average temperature of 71F
 
 Based on these results, we can see the following differences:
@@ -38,7 +38,7 @@ Based on these results, we can see the following differences:
 very noticeable. 
 2. There is greater variance in the minimum and maximum ranges, close to 10 degrees in the difference between maximum and minimum
 temperatures for the months of June and December. 
-3. A low of 60 in December and a low of 71 in June could potentially mean less business in a few days of the year; 60 is not exactly 
+3. A low of 56 in December and a low of 64 in June could potentially mean less business in a few days of the year; 56 is not exactly 
 surfing weather, and more people may decide to stay in. However, it does not appear that this is the trend, so I don't believe 
 W. Avy and my friend should have many problems succeeding in their venture. 
 
